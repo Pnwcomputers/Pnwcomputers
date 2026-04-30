@@ -3,13 +3,13 @@
  
 ### 🛠️ IT Services Owner | Field Tech | Security & Homelab Tinkerer
  
-I run **Pacific Northwest Computers**, an IT services business in Vancouver, WA serving the SW Washington and Portland metro area. With 20+ years in the trenches of small business IT, I build the tools I actually use day-to-day — Windows deployment automation, system auditing scripts, self-hosted infrastructure, and embedded security projects. Everything here comes out of real client work or my own homelab.
+I run **Pacific Northwest Computers**, an IT services business in Vancouver, WA serving the SW Washington and Portland metro area. With 20+ years in the trenches of small business IT, I build the tools I actually use day-to-day from Windows deployment automation and system auditing scripts, to self-hosted infrastructures, and embedded security projects. Everything here comes out of real client work or my own homelab projects and my various ventures/explorations into the WIDE world of technology.
  
 ---
  
 ### 💼 What I'm Up To
  
-* **🔧 Owner/Operator @ Pacific Northwest Computers:** Onsite & remote support, computer repair, network configuration, and cybersecurity consulting for residential and small business clients.
+* **🔧 Owner/Operator @ Pacific Northwest Computers:** Onsite & remote support, computer repair, network configuration, security/cybersecurity work as well as consulting for residential and small business clients.
 * **🚀 Active Projects:** [DeployWorkstation](https://github.com/Pnwcomputers/DeployWorkstation) (zero-touch Win 10/11 deployment), [SystemTester](https://github.com/Pnwcomputers/SystemTester) (portable Sysinternals toolkit), and [Pi-SocialMedia-Poster](https://github.com/Pnwcomputers/Pi-SocialMedia-Poster) (self-hosted FastAPI cross-poster).
 * **📡 IoT / RF:** [ESP32_HA_CarAlarm](https://github.com/PNW-Computers/ESP32_HA_Alarm) — DIY vehicle security via ESPHome + Home Assistant. Also building out PNWC_MESH, a Reticulum LoRa mesh network on LilyGO T3S3 hardware.
 * **📖 Documentation:** Maintainer of the [ULTIMATE Cybersecurity Master Guide](https://github.com/Pnwcomputers/ULTIMATE-CYBERSECURITY-MASTER-GUIDE) and a Jekyll-based IT field handbook.
@@ -17,8 +17,8 @@ I run **Pacific Northwest Computers**, an IT services business in Vancouver, WA 
  
 ### 🧪 Currently Tinkering With
  
-* **Self-hosted stack:** TrueNAS SCALE, Proxmox, OPNsense, UniFi, NPMplus, Tailscale — replacing SaaS where it makes sense.
-* **Pentesting hardware:** HackRF One, Flipper Zero, WiFi Pineapple, Bus Pirate 5, Pwnagotchi, GreatFET One — for client security assessments and learning.
+* **Self-hosted stack:** TrueNAS SCALE, Proxmox, OPNsense, UniFi, NPMplus, Tailscale; replacing SaaS where it makes sense.
+* **Pentesting hardware:** HackRF One, Flipper Zero, WiFi Pineapple, Bus Pirate 5, Pwnagotchi, GreatFET One; for client security assessments and learning.
 * **LoRa / mesh networking:** Reticulum, Meshtastic, RNode firmware on Heltec & LilyGO boards.
 * **Amateur radio:** GMRS repeater work and HF wire antennas (active operator).
 ---
