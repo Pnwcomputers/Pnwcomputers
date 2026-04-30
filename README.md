@@ -10,6 +10,8 @@ I'm a security-focused developer dedicated to building hardened systems and expl
 * **🔭 Lead Developer @ Pnwcomputers:** Architecting custom Linux distributions and system utilities.
 * **🚀 Current Project:** Enhancing the core stability and security features of **PnwOS**.
 * **🧪 Researching:** Advanced shell scripting techniques and automated system hardening.
+* **📖 Author of [The Computer Handbook](https://www.thecomputerhandbook.com)
+
 
 ### 🌱 Learning & Sharpening
 * **Languages:** Mastering **Go** and **C** for low-level systems programming.
@@ -42,8 +44,8 @@ I'm a security-focused developer dedicated to building hardened systems and expl
 ### 📫 How to Reach Me
 - [Main Website](https://www.pacificnwcomputers.com)
 - [Linktr.ee](https://www.linktr.ee/pnwcomputers)
-- [My Book](https://www.thecomputerhandbook.com)
-- [![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@pnwcomputers.com)
+
+[![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@pnwcomputers.com)
 
 ---
 *"Building the future of desktop computing, one kernel module at a time."*
