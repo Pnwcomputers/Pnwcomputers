@@ -36,11 +36,13 @@ I'm a security-focused developer dedicated to building hardened systems and expl
 
 ### ⚓ Digital Footprint
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Pnwcomputers&show_icons=true&theme=radical)
+
+---
+
+### 📫 How to Reach Me
 ![Main Website](https://www.pacificnwcomputers.com)
 ![Linktr.ee](https://www.linktr.ee/pnwcomputers)
 ![My Book](https://www.thecomputerhandbook.com)
-
-### 📫 How to Reach Me
 [![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@pnwcomputers.com)
 
 ---
