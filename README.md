@@ -4,7 +4,11 @@
 ### 🛠️ IT Service Company Owner | Field Technician | Security & Homelab Researcher/Tinkerer
  
 I run **Pacific Northwest Computers**, an IT services business in Vancouver, WA serving the SW Washington and Portland metro area. With 20+ years in the trenches of small business IT, I build the tools I actually use day-to-day from Windows deployment automation and system auditing scripts, to self-hosted infrastructures, and embedded security projects. Everything here comes out of real client work or my own homelab projects and my various ventures/explorations into the WIDE world of technology.
- 
+
+---
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Pnwcomputers&show_icons=true&theme=radical)
+
 ---
  
 ### 💼 What I'm Up To
@@ -43,10 +47,16 @@ I run **Pacific Northwest Computers**, an IT services business in Vancouver, WA 
  
 ---
  
-### 📫 How to Reach Me
-- [Main Website](https://www.pacificnwcomputers.com)
-- [Linktr.ee](https://www.linktr.ee/pnwcomputers)
-[![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@pnwcomputers.com)
+### 📫 Connect & Follow
+
+* **Business site:** [pacificnwcomputers.com](https://www.pacificnwcomputers.com)
+* **Blog:** [blog.pacificnwcomputers.com](https://blog.pacificnwcomputers.com)
+* **All links:** [linktr.ee/pnwcomputers](https://www.linktr.ee/pnwcomputers)
+* **Email:** jon@pnwcomputers.com
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jon@pnwcomputers.com)
+[![Website](https://img.shields.io/badge/Website-1E88E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.pacificnwcomputers.com)
+[![Blog](https://img.shields.io/badge/Blog-FF6F00?style=for-the-badge&logo=rss&logoColor=white)](https://blog.pacificnwcomputers.com)
 
 ---
 *"Twenty years in, still fixing computers and learning new ways to break them."*
