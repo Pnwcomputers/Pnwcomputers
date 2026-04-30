@@ -1,4 +1,4 @@
-# Hey there! I'm Jon Pienkowski, aka 'Pacific NW Computers' 👋 
+# About Me👋 
 
 ### 🛠️ Systems Architect | Security Researcher | OS Developer
 
