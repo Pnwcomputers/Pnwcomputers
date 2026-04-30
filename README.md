@@ -65,7 +65,7 @@ I run **Pacific Northwest Computers**, an IT services business in Vancouver, WA 
 * **🏢 Business:** [pacificnwcomputers.com](https://www.pacificnwcomputers.com)
 * **✍️ Blog:** [blog.pacificnwcomputers.com](https://blog.pacificnwcomputers.com)
 * **🌐 All links:** [linktr.ee/pnwcomputers](https://www.linktr.ee/pnwcomputers)
-* **📧 Email:** jon@pnwcomputers.com · **📞 Phone:** 360-624-7379
+* **📧 Email:** jon@pnwcomputers.com
 
 <p align="left">
   <a href="mailto:jon@pnwcomputers.com">
