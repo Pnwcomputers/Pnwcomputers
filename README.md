@@ -1,7 +1,7 @@
 # About Me👋 
 # <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Pnwcomputers;Cos-Play+Programmer+%26+Vibe+Developer;Security+Researcher+%26+Hardware+Hacker;IT+Guy+%26+IT+Consultant+%26+Field+Tech" alt="Typing SVG" /></p>
  
-### 🛠️ IT Services Owner | Field Tech | Security & Homelab Tinkerer
+### 🛠️ IT Service Company Owner | Field Technician | Security & Homelab Researcher/Tinkerer
  
 I run **Pacific Northwest Computers**, an IT services business in Vancouver, WA serving the SW Washington and Portland metro area. With 20+ years in the trenches of small business IT, I build the tools I actually use day-to-day from Windows deployment automation and system auditing scripts, to self-hosted infrastructures, and embedded security projects. Everything here comes out of real client work or my own homelab projects and my various ventures/explorations into the WIDE world of technology.
  
