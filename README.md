@@ -2,11 +2,11 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Jon+at+Pacific+Northwest+Computers;IT+Services+%26+Cybersecurity+Consulting;Homelab+Builder+%26+Self-Hoster;Amateur+Radio+Operator+%26+RF+Tinkerer;20%2B+Years+Fixing+%26+Breaking+Computers" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Jon+at+Pacific+Northwest+Computers;IT+Services+%26+Cybersecurity;Homelab+Builder+%26+Self-Hoster;Amateur+Radio+Operator+%26+RF+Tinkerer;Hardware+Hacker+%26+Purple+Team+Ops;20%2B+Years+Fixing+%26+Breaking+Computers+%26+Electronics" alt="Typing SVG" />
   </a>
 </p>
 
-### 🛠️ IT Services Owner | Field Tech | Security & Homelab Tinkerer
+### 🛠️ IT Service Provider & Small Business Owner | Field Tech | Cybersecurity Professional & Researcher | Homelab Tinkerer
 
 I run **Pacific Northwest Computers**, an IT services business in Vancouver, WA serving the SW Washington and Portland metro area. With 20+ years in the trenches of small business IT, I build the tools I actually use day-to-day. From Windows deployment automation and system auditing scripts, to self-hosted infrastructure, and embedded security projects. Everything here comes out of real client work or my own homelab.
 
