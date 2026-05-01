@@ -6,7 +6,7 @@
   </a>
 </p>
 
-### 🛠️ IT Service Provider & Small Business Owner | Field Tech | Cybersecurity Professional & Researcher | Homelab Tinkerer
+### 🛠️ IT Service Provider | Small Business Owner | Field Technician | Cybersecurity Professional & Researcher | Homelab Tinkerer
 
 I run **Pacific Northwest Computers**, an IT services business in Vancouver, WA serving the SW Washington and Portland metro area. With 20+ years in the trenches of small business IT, I build the tools I actually use day-to-day. From Windows deployment automation and system auditing scripts, to self-hosted infrastructure, and embedded security projects. Everything here comes out of real client work or my own homelab.
 
