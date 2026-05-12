@@ -20,9 +20,10 @@ www.jonpienkowski.com
 * **📖 Creator & Maintainer of the [IT Manual](https://pnw-computers.github.io/IT-Manual/);** a Jekyll-based IT field handbook.
 
 ### Current/Active Projects:
-* 🚀 [DeployWorkstation](https://github.com/Pnwcomputers/DeployWorkstation) (zero-touch Win 10/11 deployment),
-* 🔧 [SystemTester](https://github.com/Pnwcomputers/SystemTester) (portable Sysinternals toolkit), and [Pi-SocialMedia-Poster](https://github.com/Pnwcomputers/Pi-SocialMedia-Poster) (self-hosted FastAPI cross-poster).
-* 📡 [ESP32_HA_CarAlarm](https://github.com/PNW-Computers/ESP32_HA_Alarm) — DIY vehicle security via ESPHome + Home Assistant.
+* 🚀 [DeployWorkstation](https://github.com/Pnwcomputers/DeployWorkstation) (Portable, zero-touch Win 10/11 deployment utility).
+* 🔧 [SystemTester](https://github.com/Pnwcomputers/SystemTester) (Portable Sysinternals system testing toolkit).
+* 📷 [Pi-SocialMedia-Poster](https://github.com/Pnwcomputers/Pi-SocialMedia-Poster) (Self-hosted FastAPI social media cross-poster).
+* 📡 [ESP32_HA_CarAlarm](https://github.com/PNW-Computers/ESP32_HA_Alarm) — (DIY vehicle security via ESPHome + Home Assistant).
 
 
 ---
