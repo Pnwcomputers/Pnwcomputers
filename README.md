@@ -14,10 +14,15 @@ I run **Pacific Northwest Computers**, an IT services business in Vancouver, WA 
 
 ### 💼 What I'm Up To
 
-* **🔧 Owner/Operator @ [Pacific Northwest Computers](https://github.com/PNW-Computers/):** Onsite & remote support, computer repair, network configuration, and cybersecurity consulting for residential and small business clients.
-* **🚀 Active Projects:** [DeployWorkstation](https://github.com/Pnwcomputers/DeployWorkstation) (zero-touch Win 10/11 deployment), [SystemTester](https://github.com/Pnwcomputers/SystemTester) (portable Sysinternals toolkit), and [Pi-SocialMedia-Poster](https://github.com/Pnwcomputers/Pi-SocialMedia-Poster) (self-hosted FastAPI cross-poster).
-* **📡 IoT / RF:** [ESP32_HA_CarAlarm](https://github.com/PNW-Computers/ESP32_HA_Alarm) — DIY vehicle security via ESPHome + Home Assistant. Also building out PNWC_MESH, a Reticulum LoRa mesh network on LilyGO T3S3 hardware.
-* **📖 Documentation:** Maintainer of the [ULTIMATE Cybersecurity Master Guide](https://github.com/Pnwcomputers/ULTIMATE-CYBERSECURITY-MASTER-GUIDE) and a Jekyll-based IT field handbook.
+* **Owner/Operator @ [Pacific Northwest Computers](https://github.com/PNW-Computers):** Onsite & remote support, computer repair, network configuration, and cybersecurity consulting for residential and small business clients.
+* **📖 Documentation:** Creator & Maintainer of the [ULTIMATE Cybersecurity Master Guide](https://github.com/Pnwcomputers/ULTIMATE-CYBERSECURITY-MASTER-GUIDE).
+* **📖 Documentation:** Creator & Maintainer of the [IT Handbook](https://pnw-computers.github.io/IT-Manual/) a Jekyll-based IT field handbook.
+
+### Current/Active Projects:
+* 🚀 [DeployWorkstation](https://github.com/Pnwcomputers/DeployWorkstation) (zero-touch Win 10/11 deployment),
+* 🔧 [SystemTester](https://github.com/Pnwcomputers/SystemTester) (portable Sysinternals toolkit), and [Pi-SocialMedia-Poster](https://github.com/Pnwcomputers/Pi-SocialMedia-Poster) (self-hosted FastAPI cross-poster).
+* 📡 IoT / RF:** [ESP32_HA_CarAlarm](https://github.com/PNW-Computers/ESP32_HA_Alarm) — DIY vehicle security via ESPHome + Home Assistant. Also building out PNWC_MESH, a Reticulum LoRa mesh network on LilyGO T3S3 hardware.
+
 
 ---
 
