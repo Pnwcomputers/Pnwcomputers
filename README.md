@@ -15,7 +15,7 @@ www.jonpienkowski.com
 
 ### 💼 What I'm Up To
 
-* **Owner/Operator @ [Pacific Northwest Computers](https://github.com/PNW-Computers):** Onsite & remote support, computer repair, network configuration, and cybersecurity consulting for residential and small business clients.
+* **Owner/Operator @ [Pacific Northwest Computers](https://github.com/PNW-Computers):** Onsite & remote support, computer repair, network configuration, and cybersecurity consulting for residential and small business clients. [LinkTree](https://www.linktr.ee/pnwcomputers)
 * **📖 Creator & Maintainer of the [ULTIMATE Cybersecurity Master Guide](https://github.com/Pnwcomputers/ULTIMATE-CYBERSECURITY-MASTER-GUIDE)**
 * **📖 Creator & Maintainer of the [IT Manual](https://pnw-computers.github.io/IT-Manual/);** a Jekyll-based IT field handbook.
 
