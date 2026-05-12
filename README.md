@@ -61,10 +61,9 @@ www.jonpienkowski.com
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pnwcomputers&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" alt="Jon's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pnwcomputers&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Pnwcomputers&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" alt="PNWC stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Pnwcomputers&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
-
 ---
 
 ### 📫 Connect & Follow
