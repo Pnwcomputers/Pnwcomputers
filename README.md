@@ -24,7 +24,8 @@ www.jonpienkowski.com
 * 🔧 [SystemTester](https://github.com/Pnwcomputers/SystemTester) (Portable Sysinternals system testing toolkit).
 * 📷 [Pi-SocialMedia-Poster](https://github.com/Pnwcomputers/Pi-SocialMedia-Poster) (Self-hosted FastAPI social media cross-poster).
 * 📡 [ESP32_HA_CarAlarm](https://github.com/PNW-Computers/ESP32_HA_Alarm) (DIY vehicle security via ESPHome + Home Assistant).
-
+* 🎛️ [DIY CYD Reflow Oven](https://github.com/Pnwcomputers/CYD-ReFlow-Oven) (DIY CYD ESP32 Reflow Oven).
+* 🛠️ [Fix Drive Access](https://github.com/Pnwcomputers/Fix-DriveAccess) (Restores access to external drives whose files are owned by SIDs from a machine that no longer exists).
 
 ---
 
