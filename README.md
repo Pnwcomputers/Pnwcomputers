@@ -26,7 +26,7 @@ www.jonpienkowski.com
 * 📡 [ESP32_HA_CarAlarm](https://github.com/PNW-Computers/ESP32_HA_Alarm) (DIY vehicle security via ESPHome + Home Assistant).
 * 🎛️ [DIY CYD Reflow Oven](https://github.com/Pnwcomputers/CYD-ReFlow-Oven) (DIY CYD ESP32 Reflow Oven).
 * 🛠️ [Fix Drive Access](https://github.com/Pnwcomputers/Fix-DriveAccess) (Restores access to external drives whose files are owned by SIDs from a machine that no longer exists).
-* 🔒 [ESP32-S3 MicroSD Encrypted Vault](https://github.com/Pnwcomputers/esp32-s3-encrypted-drive) (Self-Hosted, Air-Gapped Encrypted USB Storage for the Waveshare ESP32-S3-LCD-1.47).
+* 🔒 [ESP32-S3 Encrypted File Vault](https://github.com/Pnwcomputers/esp32-s3-encrypted-drive) (Self-Hosted, Air-Gapped Encrypted USB Storage for the Waveshare ESP32-S3-LCD-1.47).
 
 ---
 
