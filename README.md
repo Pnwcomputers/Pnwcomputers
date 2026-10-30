@@ -71,7 +71,7 @@ www.jonpienkowski.com
 
 ### 📊 WDGWars Stats
 <div align="center">
-[![WDGWars](https://wdgwars.pl/card/3250-PJPQY2VU.svg)](https://wdgwars.pl/)
+<a href="https://wdgwars.pl/"><img src="https://wdgwars.pl/card/3250-PJPQY2VU.svg" alt="WDGWars card" width="480" height="200"></a>
   </div>
   
 ---
