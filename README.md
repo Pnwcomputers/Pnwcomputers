@@ -68,6 +68,10 @@ www.jonpienkowski.com
 </div>
 ---
 
+### 📊 WDGWars Stats
+[![WDGWars](https://wdgwars.pl/card/3250-PJPQY2VU.svg)](https://wdgwars.pl/)
+---
+
 ### 📫 Connect & Follow
 
 * **🏢 Business:** [pacificnwcomputers.com](https://www.pacificnwcomputers.com)
