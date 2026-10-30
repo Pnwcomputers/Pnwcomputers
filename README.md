@@ -69,16 +69,14 @@ www.jonpienkowski.com
 
 ---
 
-### 📊 WDGWars Stats
+### 📊 WDGWars & TryHackMe Stats
 <div align="center">
-  <a href="https://wdgwars.pl/">
-    <img src="https://wdgwars.pl/card/3250-PJPQY2VU.svg" alt="WDGWars card" width="480" height="200">
-</div>
-
-### 📊 TryHackMe Stats
-<div align="center">
-  <a href="https://tryhackme.com/p/Jon.Pienkowski" target="_blank">
-    <img src="https://amazonaws.com" alt="TryHackMe Badge" />
+  <a href="https://wdgwars.pl">
+    <img src="https://wdgwars.plcard/3250-PJPQY2VU.svg" alt="WDGWars card" width="480" height="200">
+  </a>
+  <a href="https://tryhackme.com" target="_blank">
+    <img src="https://shields.io" alt="TryHackMe Stats" height="200" />
+  </a>
 </div>
 
 ---
