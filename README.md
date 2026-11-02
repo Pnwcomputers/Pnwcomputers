@@ -69,11 +69,13 @@ www.jonpienkowski.com
 
 ---
 
-### 📊 WDGWars & TryHackMe Stats
+### 📊 WDGWars & Wigle Stats
 
 <a href="https://wdgwars.pl/"><img src="https://wdgwars.pl/card/3250-PJPQY2VU.svg" alt="WDGWars card" width="480" height="200"></a>
 
-[![TryHackMe Stats](https://shields.io)](https://tryhackme.com)
+<a href="https://wigle.net">
+<img border="0" src="https://wigle.net/bi/K0uj0oC1RGQJ6z8DpKF4eQ.png">
+</a>
 
 ---
 
